@@ -18,8 +18,8 @@ googleAnalytics = ""  # add your tracking id
     url = "https://maxturgeon.ca"
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Verdana"
-    pageWidth = "750px"
-    avatarSize = "90px"
+    pageWidth = "1000px"
+    avatarSize = "250px"
     colorBlack = "#222222"
     colorRed = "#dc3545"
 
