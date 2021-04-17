@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="{{ $style.RelPermalink }}">
     
     {{ $style := resources.Get "css/custom.css" | minify | fingerprint }}
-    <link rel="stylesheet" href="{{ $style.Permalink }}">
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
 
     {{ with .Site.Params.favicon }}
         <link rel="icon" type="image/ico" href="{{ . | absURL }}">
