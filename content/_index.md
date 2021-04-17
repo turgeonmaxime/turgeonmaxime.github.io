@@ -43,3 +43,41 @@ Former members
 
   - Ahmad, O.S., Morris, J.A., Mujammami, M., Forgetta, V., Leong, A., Li, R., **Turgeon, M.**, Greenwood, C.M.T., Thanassoulis, G., Meigs, J.B., Sladek, R., and Richards, J.B. “A Mendelian randomization study of the effect of type-2 diabetes on coronary heart disease” Nature Communications, 6: 2015. [doi:10.1038/ncomms8060](https://dx.doi.org/10.1038/ncomms8060)
 
+## Contact
+
+You can connect with me using any of the platforms below.
+
+<div class="social">
+  <ul class="share-icons">
+    <!-- Email -->
+    <li>
+      <a href="mailto:max.turgeon@umanitoba.ca" class="share-btn">
+        {{< svg "email.svg" >}}
+      </a>
+    </li>
+    <!-- Google Scholar -->
+    <li>
+      <a href="https://scholar.google.com/citations?authorid=Maxime Turgeon" class="share-btn">
+        {{< svg "googleScholar.svg" >}}
+      </a>
+    </li>
+    <!-- GitHub -->
+    <li>
+      <a href="https://github.com/turgeonmaxime" class="share-btn">
+        {{< svg "github.svg" >}}
+      </a>
+    </li>
+    <!-- Twitter -->
+    <li>
+      <a href="https://twitter.com/mturg1989" class="share-btn">
+        {{< svg "twitter.svg" >}}
+      </a>
+    </li>
+    <!-- LinkedIn -->
+    <li>
+      <a href="https://www.linkedin.com/in/maxime-turgeon-a472a8114/" class="share-btn">
+        {{< svg "linkedin.svg" >}}
+      </a>
+    </li>
+  </ul>
+</div>

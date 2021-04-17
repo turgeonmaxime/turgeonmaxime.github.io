@@ -49,7 +49,7 @@ googleAnalytics = ""  # add your tracking id
     weight = 5
   [[menu.main]]
     name = "Contact"
-    url = "/contact"
+    url = "/#contact"
     weight = 6
 
 [markup.goldmark.renderer]
