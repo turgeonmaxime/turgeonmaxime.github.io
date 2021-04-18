@@ -22,7 +22,7 @@ I am interested in developing statistical methodologies that are statistically a
 
 Current members
 
-  - Asif Neloy, MSc student in Computer Science
+  - [Asif Neloy](https://aaneloy.netlify.app/), MSc student in Computer Science
   - Thomas Czubryt, undergraduate student
   - Jiyoung Kim, undergraduate student
 
