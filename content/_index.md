@@ -4,7 +4,7 @@ title = "Max Turgeon"
 
 {{< figure class="avatar" src="/avatar.jpeg" alt="avatar">}}
 
-I am an Assistant Professor in the Departments of [Statistics](https://sci.umanitoba.ca/statistics/) and [Computer Science](https://sci.umanitoba.ca/cs/) at the [University of Manitoba](https://umanitoba.ca/).
+I am an Assistant Professor in the Department of [Statistics](https://sci.umanitoba.ca/statistics/) at the [University of Manitoba](https://umanitoba.ca/).
 
 I received a PhD in Biostatistics from McGill University in 2019 while working under the supervision of [Dr. Celia Greenwood](https://greenwoodlab.github.io/) and [Dr. Aurélie Labbe](https://chairesd.hec.ca/en/). The title of my PhD thesis is [Dimension Reduction and High-Dimensional Data: Estimation and Inference with Application to Genomics and Neuroimaging](theses/MaximeTurgeon_PhDthesis.pdf).
 
@@ -23,11 +23,14 @@ I am interested in developing statistical methodologies that are statistically a
 Current members
 
   - [Asif Neloy](https://aaneloy.netlify.app/), MSc student in Computer Science
-  - Thomas Czubryt, undergraduate student
-  - Jiyoung Kim, undergraduate student
+  - Alice Coffman, MSc student in Statistics
+  - Masudul Islam, PhD student in Statistics
+  - Sam Morrissette, PhD student in Statistics
 
 Former members
 
+  - Thomas Czubryt, undergraduate student
+  - Jiyoung Kim, undergraduate student
   - Wanmeng Wang, undergraduate student
   - Joshua Hamilton, undergraduate student
 
@@ -36,6 +39,8 @@ Former members
   - Bhatnagar, S.R., **Turgeon, M.**, *Islam, J.*, Hanley, J.A., and Saarela, O. "casebase: An Alternative Framework For Survival Analysis and Comparison of Event Rates". Submitted. [arxiv](https://arxiv.org/abs/2009.10264)
 
   - **Turgeon, M.**, Greenwood, C.M.T., and Labbe, A. "A Tracy-Widom Empirical Estimator For Valid P-values With High-Dimensional Datasets". Submitted. [arxiv](https://arxiv.org/abs/1811.07356)
+
+  - Farkas, C., Mella, A., **Turgeon, M.**, and Haigh, J.J. "A novel SARS-CoV-2 viral sequence bioinformatic pipeline has found genetic evidence that the viral 3’ untranslated region (UTR) is evolving and generating increased viral diversity". To appear in Frontiers in Microbiology.
 
   - **Turgeon, M.**, Oualkacha, K., Ciampi, A., Miftah, H., Dehghan, G., Zanke, B.W., Benedet, A.L., Rosa-Neto, P., Greenwood, C.M.T., Labbe, A., for the Alzheimer’s Disease Neuroimaging Initiative. “Principal component of explained variance: an efficient and optimal data dimension reduction framework for association studies”. Statistical Methods in Medical Research, 27: 2018. [doi:10.1177/0962280216660128](https://dx.doi.org/10.1177/0962280216660128).
 
