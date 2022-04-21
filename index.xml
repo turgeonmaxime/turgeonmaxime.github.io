@@ -7,15 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language><atom:link href="https://maxturgeon.ca/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog</title>
-      <link>https://maxturgeon.ca/blog/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://maxturgeon.ca/blog/</guid>
-      <description>Under (re)construction.</description>
-    </item>
-    
-    <item>
       <title>Software</title>
       <link>https://maxturgeon.ca/software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
