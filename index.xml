@@ -1,6 +1,51 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Max Turgeon</title><link>https://maxturgeon.ca/</link><description>Recent content on Max Turgeon</description><generator>Hugo -- gohugo.io</generator><language>en-ca</language><atom:link href="https://maxturgeon.ca/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog</title><link>https://maxturgeon.ca/blog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://maxturgeon.ca/blog/</guid><description>Under (re)construction.</description></item><item><title>Software</title><link>https://maxturgeon.ca/software/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://maxturgeon.ca/software/</guid><description>R packages pcev: PCEV is a dimension-reduction technique, similar to Principal components Analysis (PCA), which seeks to maximize the proportion of variance (in the response vector) being explained by a set of covariates. The R package implements two estimation methods: the classical approach and a block approach, proposed by Turgeon et al. (submitted), which is suitable for high-dimensional response vectors. The package also performs inference using both analytic and permutation tests.</description></item><item><title>Talks</title><link>https://maxturgeon.ca/talks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://maxturgeon.ca/talks/</guid><description>2021 Analyser les tweets de chefs politiques canadiens grâce à l’Analyse Topologique de Données
-UQAM Statistics Seminar, Université du Québec à Montréal, Montréal QC Slides Investigating text data using Topological Data Analysis
-Machine Learning Special Interest Group, University of Manitoba, Winnipeg MB Slides 2020 Arbitrary-precision linear algebra in R using RcppEigen and BH
-useR 2020, Online conference Slides and Video How to see in 100 dimensions: Transforming your data to better understand it</description></item><item><title>Teaching</title><link>https://maxturgeon.ca/teaching/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://maxturgeon.ca/teaching/</guid><description>During the academic year 2020-21, I am teaching the following courses:
-STAT 3150&amp;ndash;Statistical Computing (Fall 2020) Course website SCI 2000&amp;ndash;Introduction to Data Science (Winter 2021) Course website Here is a list of courses I have taught in the past:
-STAT 4690&amp;ndash;Applied Multivariate Analysis (Fall 2019) Course website STAT 7200&amp;ndash;Multivariate Analysis 1 (Winter 2020) Course website Guest Teaching Dimension Reduction</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Max Turgeon</title>
+    <link>https://maxturgeon.ca/</link>
+    <description>Recent content on Max Turgeon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language><atom:link href="https://maxturgeon.ca/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>https://maxturgeon.ca/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maxturgeon.ca/blog/</guid>
+      <description>Under (re)construction.</description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://maxturgeon.ca/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maxturgeon.ca/software/</guid>
+      <description>R packages   pcev: PCEV is a dimension-reduction technique, similar to Principal components Analysis (PCA), which seeks to maximize the proportion of variance (in the response vector) being explained by a set of covariates. The R package implements two estimation methods: the classical approach and a block approach, proposed by Turgeon et al. (submitted), which is suitable for high-dimensional response vectors. The package also performs inference using both analytic and permutation tests.</description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://maxturgeon.ca/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maxturgeon.ca/talks/</guid>
+      <description>2021   Analyser les tweets de chefs politiques canadiens grâce à l’Analyse Topologique de Données
+ UQAM Statistics Seminar, Université du Québec à Montréal, Montréal QC Slides    Investigating text data using Topological Data Analysis
+ Machine Learning Special Interest Group, University of Manitoba, Winnipeg MB Slides    2020   Arbitrary-precision linear algebra in R using RcppEigen and BH
+ useR 2020, Online conference Slides and Video    How to see in 100 dimensions: Transforming your data to better understand it</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://maxturgeon.ca/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maxturgeon.ca/teaching/</guid>
+      <description>During the academic year 2020-21, I am teaching the following courses:
+ STAT 3150&amp;ndash;Statistical Computing (Fall 2020)  Course website   SCI 2000&amp;ndash;Introduction to Data Science (Winter 2021)  Course website    Here is a list of courses I have taught in the past:
+ STAT 4690&amp;ndash;Applied Multivariate Analysis (Fall 2019)  Course website   STAT 7200&amp;ndash;Multivariate Analysis 1 (Winter 2020)  Course website    Guest Teaching   Dimension Reduction</description>
+    </item>
+    
+  </channel>
+</rss>

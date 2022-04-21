@@ -1,13 +1,119 @@
-<!doctype html><html lang><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no"><title>Software</title><meta name=description content="Dimension Reduction at UManitoba"><meta name=author content="Max Turgeon"><link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&display=swap" rel=stylesheet><link rel=stylesheet href=https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css integrity=sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2 crossorigin=anonymous><link rel=stylesheet href=/sass/researcher.min.css><link rel=stylesheet href=/css/custom.min.5df92480f6df8d738e2ade07435ac3864f64c07709811ae78f66c9daed1c73a0.css><link rel=icon type=image/ico href=https://maxturgeon.ca/icon.png></head><body><div class="container mt-5"><nav class="navbar navbar-expand-sm flex-column flex-sm-row text-nowrap p-0"><a class="navbar-brand mx-0 mr-sm-auto" href=https://maxturgeon.ca/ title="Max Turgeon">Max Turgeon</a><div class="navbar-nav flex-row flex-wrap justify-content-center"><a class="nav-item nav-link" href=/ title=About>About</a>
-<span class="nav-item navbar-text mx-1">/</span>
-<a class="nav-item nav-link" href=/teaching title=Teaching>Teaching</a>
-<span class="nav-item navbar-text mx-1">/</span>
-<a class="nav-item nav-link" href=/software title=Software>Software</a>
-<span class="nav-item navbar-text mx-1">/</span>
-<a class="nav-item nav-link" href=/mturgeon_cv.pdf title=CV>CV</a>
-<span class="nav-item navbar-text mx-1">/</span>
-<a class="nav-item nav-link" href=/talks title=Talks>Talks</a>
-<span class="nav-item navbar-text mx-1">/</span>
-<a class="nav-item nav-link" href=/blog title=Blog>Blog</a>
-<span class="nav-item navbar-text mx-1">/</span>
-<a class="nav-item nav-link" href=/#contact title=Contact>Contact</a></div></nav></div><hr><div id=content><div class=container><h3 id=r-packages>R packages</h3><ul><li><p><code>pcev</code>: PCEV is a dimension-reduction technique, similar to Principal components Analysis (PCA), which seeks to maximize the proportion of variance (in the response vector) being explained by a set of covariates. The R package implements two estimation methods: the classical approach and a block approach, proposed by Turgeon et al. (submitted), which is suitable for high-dimensional response vectors. The package also performs inference using both analytic and permutation tests. A stable version is available on <a href="https://cran.r-project.org/package=pcev">CRAN</a>, and the development version is on <a href=https://github.com/GreenwoodLab/pcev>Github</a>. For more information, have a look at the <a href=https://cran.r-project.org/web/packages/pcev/vignettes/pcev.pdf>vignette</a>!</p></li><li><p><code>casebase</code>: A package whose main purpose is to fit smooth-in-time parametric hazard functions using case-base sampling (Hanley & Miettinen, 2009). This approach enables the user to fit a wide class of parametric hazard functions and, as a result, to get smooth estimates of absolute risks. The <a href=https://sahirbhatnagar.com/casebase/>website</a> has several vignettes explaining how the package can be used.</p></li><li><p><code>multiKernel</code>: This package implements multivariate prediction using kernel-machine regression. It is still very much in development on <a href=https://github.com/turgeonmaxime/multiKernel>Github</a>.</p></li><li><p><code>rootWishart</code>: Functions for hypothesis testing in single and double Wishart settings, based on Roy&rsquo;s largest root. This test statistic is especially useful in multivariate analysis. The computations are based on results by <a href=https://dx.doi.org/10.1016/j.jmva.2014.04.002>Chiani (2014)</a> and <a href=https://dx.doi.org/10.1016/j.jmva.2015.10.007>Chiani (2016)</a>. They use the fact that the CDF is related to the Pfaffian of a matrix that can be computed in a finite number of iterations. This package takes advantage of the Boost and Eigen C++ libraries to perform multi-precision linear algebra. A stable version is available on <a href="https://cran.r-project.org/package=rootWishart">CRAN</a>, and the development version is on <a href=https://github.com/turgeonmaxime/rootWishart>Github</a>.</p></li></ul></div></div><div id=footer class=mb-5><hr><div class="container text-center"><a href=https://maxturgeon.ca title="By Max Turgeon"><small>By Max Turgeon</small></a></div></div></body></html>
+<!DOCTYPE html>
+<html lang=""><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>Software</title>
+    <meta name="description" content="Dimension Reduction at UManitoba">
+    <meta name="author" content='Max Turgeon'>
+
+    <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+
+    
+    <link rel="stylesheet" href="/sass/researcher.min.css">
+    
+    
+    <link rel="stylesheet" href="/css/custom.min.5df92480f6df8d738e2ade07435ac3864f64c07709811ae78f66c9daed1c73a0.css">
+
+    
+        <link rel="icon" type="image/ico" href="https://maxturgeon.ca/icon.png">
+    
+
+    
+        
+    
+</head>
+
+    <body><div class="container mt-5">
+    <nav class="navbar navbar-expand-sm flex-column flex-sm-row text-nowrap p-0">
+        <a class="navbar-brand mx-0 mr-sm-auto" href="https://maxturgeon.ca/" title="Max Turgeon">
+          
+          Max Turgeon
+        </a>
+        <div class="navbar-nav flex-row flex-wrap justify-content-center">
+            
+                
+                
+                    <a class="nav-item nav-link" href="/" title="About">
+                        About
+                    </a>
+                    
+                        <span class="nav-item navbar-text mx-1">/</span>
+                    
+                
+                    <a class="nav-item nav-link" href="/teaching" title="Teaching">
+                        Teaching
+                    </a>
+                    
+                        <span class="nav-item navbar-text mx-1">/</span>
+                    
+                
+                    <a class="nav-item nav-link" href="/software" title="Software">
+                        Software
+                    </a>
+                    
+                        <span class="nav-item navbar-text mx-1">/</span>
+                    
+                
+                    <a class="nav-item nav-link" href="/mturgeon_cv.pdf" title="CV">
+                        CV
+                    </a>
+                    
+                        <span class="nav-item navbar-text mx-1">/</span>
+                    
+                
+                    <a class="nav-item nav-link" href="/talks" title="Talks">
+                        Talks
+                    </a>
+                    
+                        <span class="nav-item navbar-text mx-1">/</span>
+                    
+                
+                    <a class="nav-item nav-link" href="/blog" title="Blog">
+                        Blog
+                    </a>
+                    
+                        <span class="nav-item navbar-text mx-1">/</span>
+                    
+                
+                    <a class="nav-item nav-link" href="/#contact" title="Contact">
+                        Contact
+                    </a>
+                    
+                
+            
+        </div>
+    </nav>
+</div>
+<hr>
+<div id="content">
+<div class="container">
+    <h3 id="r-packages">R packages</h3>
+<ul>
+<li>
+<p><code>pcev</code>: PCEV is a dimension-reduction technique, similar to Principal components Analysis (PCA), which seeks to maximize the proportion of variance (in the response vector) being explained by a set of covariates. The R package implements two estimation methods: the classical approach and a block approach, proposed by Turgeon et al. (submitted), which is suitable for high-dimensional response vectors. The package also performs inference using both analytic and permutation tests. A stable version is available on <a href="https://cran.r-project.org/package=pcev">CRAN</a>, and the development version is on <a href="https://github.com/GreenwoodLab/pcev">Github</a>. For more information, have a look at the <a href="https://cran.r-project.org/web/packages/pcev/vignettes/pcev.pdf">vignette</a>!</p>
+</li>
+<li>
+<p><code>casebase</code>: A package whose main purpose is to fit smooth-in-time parametric hazard functions using case-base sampling (Hanley &amp; Miettinen, 2009). This approach enables the user to fit a wide class of parametric hazard functions and, as a result, to get smooth estimates of absolute risks. The <a href="https://sahirbhatnagar.com/casebase/">website</a> has several vignettes explaining how the package can be used.</p>
+</li>
+<li>
+<p><code>multiKernel</code>: This package implements multivariate prediction using kernel-machine regression. It is still very much in development on <a href="https://github.com/turgeonmaxime/multiKernel">Github</a>.</p>
+</li>
+<li>
+<p><code>rootWishart</code>: Functions for hypothesis testing in single and double Wishart settings, based on Roy&rsquo;s largest root. This test statistic is especially useful in multivariate analysis. The computations are based on results by <a href="https://dx.doi.org/10.1016/j.jmva.2014.04.002">Chiani (2014)</a> and <a href="https://dx.doi.org/10.1016/j.jmva.2015.10.007">Chiani (2016)</a>. They use the fact that the CDF is related to the Pfaffian of a matrix that can be computed in a finite number of iterations. This package takes advantage of the Boost and Eigen C++ libraries to perform multi-precision linear algebra. A stable version is available on <a href="https://cran.r-project.org/package=rootWishart">CRAN</a>, and the development version is on <a href="https://github.com/turgeonmaxime/rootWishart">Github</a>.</p>
+</li>
+</ul>
+
+</div>
+
+        </div><div id="footer" class="mb-5">
+    
+        <hr>
+        <div class="container text-center">
+            <a href="https://maxturgeon.ca" title="By Max Turgeon"><small>By Max Turgeon</small></a>
+        </div>
+    
+</div>
+</body>
+</html>
