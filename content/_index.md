@@ -62,7 +62,7 @@ You can connect with me using any of the platforms below.
     </li>
     <!-- Google Scholar -->
     <li>
-      <a href="https://scholar.google.com/citations?authorid=Maxime Turgeon" class="share-btn">
+      <a href="https://scholar.google.com/citations?user=5Qd5GtkAAAAJ" class="share-btn">
         {{< svg "googleScholar.svg" >}}
       </a>
     </li>
