@@ -26,6 +26,9 @@ Current members
   - Alice Coffman, MSc student in Statistics
   - Masudul Islam, PhD student in Statistics
   - Sam Morrissette, PhD student in Statistics
+  - Madison Cranstone, undergraduate student
+  - James Young, undergraduate student
+  - Yuqing Wang, undergraduate student
 
 Former members
 
