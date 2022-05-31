@@ -2,7 +2,16 @@
 title = "Talks"
 +++
 
+### 2022
+
+  - Generalized Soft Impute for Matrix Completion
+    + Annual Meeting of the Statistical Society of Canada, Online
+    + [Slides](/slides/2022-06-01-SSC.html)
+
 ### 2021
+
+  - Investigating text data using Topological Data Analysis
+    + Annual Meeting of the Statistical Society of Canada, Online
 
   - Analyser les tweets de chefs politiques canadiens grâce à l’Analyse Topologique de Données
     + UQAM Statistics Seminar, Université du Québec à Montréal, Montréal QC
