@@ -39,7 +39,7 @@ Former members
 
 ## Publications
 
-  - Bhatnagar, S.R., **Turgeon, M.**, *Islam, J.*, Hanley, J.A., and Saarela, O. "casebase: An Alternative Framework For Survival Analysis and Comparison of Event Rates". Submitted. [arxiv](https://arxiv.org/abs/2009.10264)
+  - Bhatnagar, S.R., **Turgeon, M.**, *Islam, J.*, Hanley, J.A., and Saarela, O. "casebase: An Alternative Framework For Survival Analysis and Comparison of Event Rates". Accepted for publication in *The R Journal*. [arxiv](https://arxiv.org/abs/2009.10264)
 
   - **Turgeon, M.**, Greenwood, C.M.T., and Labbe, A. "A Tracy-Widom Empirical Estimator For Valid P-values With High-Dimensional Datasets". Submitted. [arxiv](https://arxiv.org/abs/1811.07356)
 

@@ -5,7 +5,11 @@ title = "Talks"
 ### 2022
 
   - Generalized Soft Impute for Matrix Completion
+    + University of Calgary Statistics Seminar, Calgary AB
+    + [Slides](/slides/2022-06-16-UCalgary.html)
+  - Generalized Soft Impute for Matrix Completion
     + Annual Meeting of the Statistical Society of Canada, Online
+    + *Winner of the Award for Best Presentation by a New Investigator*
     + [Slides](/slides/2022-06-01-SSC.html)
 
 ### 2021
