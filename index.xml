@@ -7,6 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language><atom:link href="https://maxturgeon.ca/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Projects</title>
+      <link>https://maxturgeon.ca/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maxturgeon.ca/projects/</guid>
+      <description>Here is a list of current and former projects I have worked on. Also, here is a blog post describing some of the projects I worked on as a senior biostatistician with the Saskatchewan Health Authority.
+Missing data and matrix completion Missing data is a common challenge in data science. As the number of measurements increases, so does the likelihood that at least one of them is missing for a given observation, leading to inefficient complete-case analyses.</description>
+    </item>
+    
+    <item>
       <title>Software</title>
       <link>https://maxturgeon.ca/software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

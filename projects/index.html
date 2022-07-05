@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang=""><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>Projects</title>
+    <meta name="description" content="Dimension Reduction at UManitoba">
+    <meta name="author" content='Max Turgeon'>
+
+    <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+
+    
+    <link rel="stylesheet" href="/sass/researcher.min.css">
+    
+    
+    <link rel="stylesheet" href="/css/custom.min.5df92480f6df8d738e2ade07435ac3864f64c07709811ae78f66c9daed1c73a0.css">
+
+    
+        <link rel="icon" type="image/ico" href="https://maxturgeon.ca/icon.png">
+    
+
+    
+        
+    
+</head>
+
+    <body><div class="container mt-5">
+    <nav class="navbar navbar-expand-sm flex-column flex-sm-row text-nowrap p-0">
+        <a class="navbar-brand mx-0 mr-sm-auto" href="https://maxturgeon.ca/" title="Max Turgeon">
+          
+          Max Turgeon
+        </a>
+        <div class="navbar-nav flex-row flex-wrap justify-content-center">
+            
+                
+                
+                    <a class="nav-item nav-link" href="/" title="About">
+                        About
+                    </a>
+                    
+                        <span class="nav-item navbar-text mx-1">/</span>
+                    
+                
+                    <a class="nav-item nav-link" href="/projects" title="Projects">
+                        Projects
+                    </a>
+                    
+                        <span class="nav-item navbar-text mx-1">/</span>
+                    
+                
+                    <a class="nav-item nav-link" href="/teaching" title="Teaching">
+                        Teaching
+                    </a>
+                    
+                        <span class="nav-item navbar-text mx-1">/</span>
+                    
+                
+                    <a class="nav-item nav-link" href="/software" title="Software">
+                        Software
+                    </a>
+                    
+                        <span class="nav-item navbar-text mx-1">/</span>
+                    
+                
+                    <a class="nav-item nav-link" href="/mturgeon_cv.pdf" title="CV">
+                        CV
+                    </a>
+                    
+                        <span class="nav-item navbar-text mx-1">/</span>
+                    
+                
+                    <a class="nav-item nav-link" href="/talks" title="Talks">
+                        Talks
+                    </a>
+                    
+                        <span class="nav-item navbar-text mx-1">/</span>
+                    
+                
+                    <a class="nav-item nav-link" href="/blog" title="Blog">
+                        Blog
+                    </a>
+                    
+                        <span class="nav-item navbar-text mx-1">/</span>
+                    
+                
+                    <a class="nav-item nav-link" href="/#contact" title="Contact">
+                        Contact
+                    </a>
+                    
+                
+            
+        </div>
+    </nav>
+</div>
+<hr>
+<div id="content">
+<div class="container">
+    <p>Here is a list of current and former projects I have worked on. Also, here is a <a href="https://www.maxturgeon.ca/blog/2018-09-28-what-i-currently-do/">blog post</a> describing some of the projects I worked on as a senior biostatistician with the Saskatchewan Health Authority.</p>
+<h2 id="missing-data-and-matrix-completion">Missing data and matrix completion</h2>
+<p>Missing data is a common challenge in data science. As the number of measurements increases, so does the likelihood that at least one of them is missing for a given observation, leading to inefficient complete-case analyses. Matrix completion algorithms have gained popularity recently for their simplicity and computational efficiency. In this ongoing project, I developed a matrix completion algorithm based on generalized Singular Value Decomposition (SVD), which unlike classical SVD imposes constraints on the rows and columns of the data matrix. This framework is particularly suitable for multivariate methods like Weighted Principal Component Analysis and Correspondence Analysis.</p>
+<h2 id="anomaly-detection">Anomaly detection</h2>
+<p>An MSc student in my research group (Neloy) has been investigating deep unsupervised learning models to detect anomalous observations in complex data (e.g. image data). Specifically, he reviewed several auto-encoder architectures to determine what characteristics provide the best performance. Based on these observations, he has been working on a new architecture that combines idea from the disentanglement literature with conditional graphical models.</p>
+<p>In an ongoing project, I am using spectral clustering methods to detect bots in crowdsourcing platforms (e.g. Amazon&rsquo;s Mechanical Turk). In typical anomaly detection tasks, the anomalies are relatively rare compared to the normal data. In contrast, bots can represent a majority of the data collected from crowdsourcing platforms, which means it is crucial to identify and remove them from a dataset before analysis.</p>
+<h2 id="case-base-sampling">Case-base sampling</h2>
+<p>In collaboration with <a href="https://sahirbhatnagar.com/">Sahir Bhatnagar</a>, we developed the R package <a href="https://sahirbhatnagar.com/casebase/">casebase</a> which provides a flexible alternative framework for survival analysis.</p>
+<p>Our research groups then developed extensions of this framework to variable selection, competing risk analysis, and deep survival models.</p>
+<h2 id="dimension-reduction-for-genomics-and-neuroimaging-data">Dimension reduction for genomics and neuroimaging data</h2>
+<p>Genomics and neuro-imaging data have many common characteristics: they are high-dimensional (i.e. more features than data points) and they are highly structured. Indeed, because of various biological processes, there is typically a fair amount of correlation between the different features. This structure can be leveraged to increase computational and statistical efficiency of analytical methods.</p>
+<p>In my PhD thesis, I explored this idea in the context of dimension reduction. Specifically, I combined Principal Component of Explained Variance (PCEV) with a block estimator of the residual covariance matrix to increase statistical efficiency. I also developed an empirical estimator for a high-dimensional test statistic that can be used with the traditional PCEV to improve the computational efficiency of region-based association tests.</p>
+<p>More recently, a student in my research group (Czubrytt) looked at different covariance and precision matrix estimators, and how combining them with PCEV can improve statistical power.</p>
+<h2 id="machine-learning-for-molecule-design">Machine Learning for Molecule Design</h2>
+<p>This project is funded by a New Frontiers in Research Fund&mdash;Exploration grant. The goal is to use machine learning to identify structural factors of DNA nanomolecules that increase the likelihood of cell binding and cell entry. Potential applications include drug delivery. This work is in collaboration with <a href="https://experts.mcmaster.ca/display/bujoldk">Katherine Bujold</a> and <a href="https://experts.mcmaster.ca/display/rulloa">Anthony Rullo</a> from McMaster University.</p>
+<!-- ## Shiny apps -->
+
+</div>
+
+        </div><div id="footer" class="mb-5">
+    
+        <hr>
+        <div class="container text-center">
+            <a href="https://maxturgeon.ca" title="By Max Turgeon"><small>By Max Turgeon</small></a>
+        </div>
+    
+</div>
+</body>
+</html>
