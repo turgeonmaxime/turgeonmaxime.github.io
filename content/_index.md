@@ -10,7 +10,7 @@ I received a PhD in Biostatistics from McGill University in 2019 while working u
 
 In a previous life, I also received an MSc in Mathematics from McGill University. My [thesis](thesis.pdf) work was in the field of arithmetic geometry, and it explored a "relative fundamental lemma" that connects distinguished representations on the unitary group of rank 4 with those on general linear groups. It was written under the supervision of [Dr. Jayce R. Getz](https://sites.duke.edu/jgetz/), who is now at Duke University.
 
-Finally, from 2016 to 2019, I was also a senior biostatistician with the [Saskatchewan Health Authority](https://www.saskhealthauthority.ca/) in Saskatoon, SK.
+Finally, from 2016 to 2019, I was also a senior biostatistician with the [Saskatchewan Health Authority](https://www.saskhealthauthority.ca/) in Saskatoon, SK. Here is a [blog post](https://www.maxturgeon.ca/blog/2018-09-28-what-i-currently-do/) describing some of the projects I worked on during my tenure with SHA.
 
 ## Research Interests
 
@@ -18,12 +18,13 @@ My main research interests are dimension reduction methods for high-dimensional 
 
 I am interested in developing statistical methodologies that are statistically and computationally efficient. I am also interested in applications to statistical genetics, genomics, and neuroimaging.
 
+You can find a list of projects I have worked on [here](/projects).
+
 ## Research Team
 
 Current members
 
   - [Asif Neloy](https://aaneloy.netlify.app/), MSc student in Computer Science
-  - Alice Coffman, MSc student in Statistics
   - Masudul Islam, PhD student in Statistics
   - Sam Morrissette, PhD student in Statistics
   - Madison Cranstone, undergraduate student
@@ -32,6 +33,7 @@ Current members
 
 Former members
 
+  - Alice Coffman, MSc student in Statistics
   - Thomas Czubryt, undergraduate student
   - Jiyoung Kim, undergraduate student
   - Wanmeng Wang, undergraduate student
