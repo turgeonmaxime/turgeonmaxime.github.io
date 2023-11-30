@@ -27,6 +27,7 @@ You can find a list of projects I have worked on [here](/projects).
 Current members
 
   - Sam Morrissette, PhD student in Statistics
+  - Ismaila Ba, Post-Doctoral Researcher
 
 Former members
 
@@ -40,6 +41,8 @@ Former members
   - Joshua Hamilton, undergraduate student
 
 ## Publications
+
+  - *Morrissette, S.*, **Turgeon, M.**, Muthukumarana, S. "Parsimonious Bayesian Model-Based Clustering with Dissimilarities". Accepted for publication in *Machine Learning with Applications*.
 
   - Bhatnagar, S.R., **Turgeon, M.**, *Islam, J.*, Hanley, J.A., and Saarela, O. "casebase: An Alternative Framework For Survival Analysis and Comparison of Event Rates". The R Journal, 14: 2022. [doi:10.32614/RJ-2022-052](https://dx.doi.org/10.32614/RJ-2022-052).
 
@@ -80,11 +83,12 @@ You can connect with me using any of the platforms below.
       </a>
     </li>
     <!-- Twitter -->
-    <li>
+<!--    <li>
       <a href="https://twitter.com/mturg1989" class="share-btn">
         {{< svg "twitter.svg" >}}
       </a>
     </li>
+-->
     <!-- LinkedIn -->
     <li>
       <a href="https://www.linkedin.com/in/maxime-turgeon-a472a8114/" class="share-btn">
