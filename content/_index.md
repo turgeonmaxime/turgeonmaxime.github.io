@@ -42,7 +42,11 @@ Former members
 
 ## Publications
 
-  - *Morrissette, S.*, **Turgeon, M.**, Muthukumarana, S. "Parsimonious Bayesian Model-Based Clustering with Dissimilarities". Accepted for publication in *Machine Learning with Applications*.
+  - *Islam, J.*, **Turgeon, M.**, Sladek, R., Bhatnagar, S.R. "Case-Base Neural Network: survival analysis with time-varying, higher-order interactions". Accepted for publication in *Machine Learning with Applications*.
+
+  - Haque, M.A., Gedara, M.L.B., Nickel, N., **Turgeon, M.**, Lix L.M. "The validity of electronic health data for measuring smoking status: a systematic review and meta-analysis". BMC Med Inform Decis Mak 24: 2024. [doi:10.1186/s12911-024-02416-3](https://doi.org/10.1186/s12911-024-02416-3)
+
+  - *Morrissette, S.*, Muthukumarana, S., **Turgeon, M.**. "Parsimonious Bayesian Model-Based Clustering with Dissimilarities". Machine Learning with Applications, 15: 2024. [doi:10.1016/j.mlwa.2024.100528](https://doi.org/10.1016/j.mlwa.2024.100528)
 
   - Bhatnagar, S.R., **Turgeon, M.**, *Islam, J.*, Hanley, J.A., and Saarela, O. "casebase: An Alternative Framework For Survival Analysis and Comparison of Event Rates". The R Journal, 14: 2022. [doi:10.32614/RJ-2022-052](https://dx.doi.org/10.32614/RJ-2022-052).
 
