@@ -42,7 +42,9 @@ Former members
 
 ## Publications
 
-  - *Islam, J.*, **Turgeon, M.**, Sladek, R., Bhatnagar, S.R. "Case-Base Neural Network: survival analysis with time-varying, higher-order interactions". Accepted for publication in *Machine Learning with Applications*.
+  - *Neloy, A.* and **Turgeon, M.** "A Comprehensive Study of Auto-Encoders for Anomaly Detection: Efficiency and Trade-Offs". Machine Learning with Applications, 17: 2024. [doi:10.1016/j.mlwa.2024.100572](https://doi.org/10.1016/j.mlwa.2024.100572).
+
+  - *Islam, J.*, **Turgeon, M.**, Sladek, R., Bhatnagar, S.R. "Case-Base Neural Network: survival analysis with time-varying, higher-order interactions". Machine Learning with Applications, 16: 2024. [doi:10.1016/j.mlwa.2024.100535](https://doi.org/10.1016/j.mlwa.2024.100535)
 
   - Haque, M.A., Gedara, M.L.B., Nickel, N., **Turgeon, M.**, Lix L.M. "The validity of electronic health data for measuring smoking status: a systematic review and meta-analysis". BMC Med Inform Decis Mak 24: 2024. [doi:10.1186/s12911-024-02416-3](https://doi.org/10.1186/s12911-024-02416-3)
 
