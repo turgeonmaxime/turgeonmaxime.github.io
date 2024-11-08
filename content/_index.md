@@ -27,10 +27,10 @@ You can find a list of projects I have worked on [here](/projects).
 Current members
 
   - Sam Morrissette, PhD student in Statistics
-  - Ismaila Ba, Post-Doctoral Researcher
 
 Former members
 
+  - Ismaila Ba, Post-Doctoral Researcher
   - [Asif Neloy](https://aaneloy.netlify.app/), MSc student in Computer Science
   - Madison Cranstone, undergraduate student
   - James Young, undergraduate student
@@ -41,6 +41,8 @@ Former members
   - Joshua Hamilton, undergraduate student
 
 ## Publications
+
+  - *Neloy, A.* and **Turgeon, M.** "Disentangled Conditional Variational Autoencoder for Unsupervised Anomaly Detection", 2024 IEEE International Conference on Big Data (BigData), Washington DC, USA, 2024.
 
   - *Neloy, A.* and **Turgeon, M.** "A Comprehensive Study of Auto-Encoders for Anomaly Detection: Efficiency and Trade-Offs". Machine Learning with Applications, 17: 2024. [doi:10.1016/j.mlwa.2024.100572](https://doi.org/10.1016/j.mlwa.2024.100572).
 
