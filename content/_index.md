@@ -27,6 +27,7 @@ You can find a list of projects I have worked on [here](/projects).
 Current members
 
   - Sam Morrissette, PhD student in Statistics
+  - Surani Matharaarachchi, Post-Doctoral Researcher
 
 Former members
 
@@ -41,6 +42,8 @@ Former members
   - Joshua Hamilton, undergraduate student
 
 ## Publications
+
+  - Quan, S., Monchka, B.A., St. John, P.D., Doupe, M.B., **Turgeon, M.**, Lix, L.M. "Network Analyses to Explore Comorbidities Among Older Adults Living With Dementia". Journal of the American Geriatrics Society, 73: 2025. [doi:10.1111/jgs.19336](https://doi.org/10.1111/jgs.19336).
 
   - *Neloy, A.* and **Turgeon, M.** "Disentangled Conditional Variational Autoencoder for Unsupervised Anomaly Detection", 2024 IEEE International Conference on Big Data (BigData), Washington DC, USA, 2024.
 
