@@ -7,12 +7,12 @@ title = "Talks"
   - Large Scale Change Detection Using Remote Sensing Data
     + Annual Meeting of the Statistical Society of Canada, Saskatoon SK
     + [Slides](/slides/Turgeon-SSC2025.pdf)
-  - Panel Discussion on The Role and Impact of Statistics in Industry, Public Policy, and Public Health Initiatives
+  - The Role and Impact of Statistics in Industry, Public Policy, and Public Health Initiatives (panel discussion)
     + Annual Meeting of the Statistical Society of Canada, Saskatoon SK
 
 ### 2024
 
-  - Panel Discussion on AI and Landscape Management
+  - AI and Landscape Management (panel discussion)
     + Ontario Professional Forestry Association Conference, Sault Ste. Marie ON
 
 ### 2023
@@ -23,12 +23,16 @@ title = "Talks"
 ### 2022
 
   - Generalized Soft Impute for Matrix Completion
+    + ICSA-Canada Chapter 2022 Symposium, Banff AB
+  - Generalized Soft Impute for Matrix Completion
     + University of Calgary Statistics Seminar, Calgary AB
     + [Slides](/slides/2022-06-16-UCalgary.html)
   - Generalized Soft Impute for Matrix Completion
     + Annual Meeting of the Statistical Society of Canada, Online
     + *Winner of the Award for Best Presentation by a New Investigator*
     + [Slides](/slides/2022-06-01-SSC.html)
+  - What kind of training do students  in Statistics and Data Science need? (panel discussion)
+    + Inaugural CANSSI-Prairies Summit, Winnipeg MB
 
 ### 2021
 

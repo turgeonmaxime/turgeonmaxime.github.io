@@ -24,7 +24,7 @@ googleAnalytics = ""  # add your tracking id
     colorRed = "#dc3545"
 
 [permalinks]
-  "/" = "/:filename"
+  "/" = "/:contentbasename"
 
 [menu]
   [[menu.main]]
