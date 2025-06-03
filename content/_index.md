@@ -4,7 +4,7 @@ title = "Max Turgeon"
 
 {{< figure class="avatar" src="/avatar.jpeg" alt="avatar">}}
 
-I am a Data Scientist with [Tesera Systems](https://www.tesera.com/).
+I am a Senior Data Scientist with [Tesera Systems](https://www.tesera.com/).
 
 I am also an Adjunct Professor in the Department of [Statistics](https://sci.umanitoba.ca/statistics/) at the [University of Manitoba](https://umanitoba.ca/).
 
