@@ -2,6 +2,24 @@
 title = "Talks"
 +++
 
+### 2025
+
+  - Large Scale Change Detection Using Remote Sensing Data
+    + Annual Meeting of the Statistical Society of Canada, Saskatoon SK
+    + [Slides](/slides/Turgeon-SSC2025.pdf)
+  - Panel Discussion on The Role and Impact of Statistics in Industry, Public Policy, and Public Health Initiatives
+    + Annual Meeting of the Statistical Society of Canada, Saskatoon SK
+
+### 2024
+
+  - Panel Discussion on AI and Landscape Management
+    + Ontario Professional Forestry Association Conference, Sault Ste. Marie ON
+
+### 2023
+
+  - A Novel Approach to Stratification in the Foothills of the Sierra Nevada Mountains Using Automated Landscape Segmentation and Remote Sensed Imagery and LiDAR Data
+    + Society of American Foresters National Convention, Sacramento CA
+
 ### 2022
 
   - Generalized Soft Impute for Matrix Completion
