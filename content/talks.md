@@ -4,6 +4,8 @@ title = "Talks"
 
 ### 2025
 
+  - The Statistical Frontier in Forestry and Remote Sensing
+    + Dalhousie University Statistics Seminar, Halifax NS
   - Large Scale Change Detection Using Remote Sensing Data
     + Annual Meeting of the Statistical Society of Canada, Saskatoon SK
     + [Slides](/slides/Turgeon-SSC2025.pdf)

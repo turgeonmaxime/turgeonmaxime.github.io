@@ -27,10 +27,11 @@ You can find a list of projects I have worked on [here](/projects).
 Current members
 
   - Sam Morrissette, PhD student in Statistics
-  - Surani Matharaarachchi, Post-Doctoral Researcher
+  - Noah Farrell, MSc student in Statistics
 
 Former members
 
+  - Surani Matharaarachchi, Post-Doctoral Researcher
   - Ismaila Ba, Post-Doctoral Researcher
   - [Asif Neloy](https://aaneloy.netlify.app/), MSc student in Computer Science
   - Madison Cranstone, undergraduate student
