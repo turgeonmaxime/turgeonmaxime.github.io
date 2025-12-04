@@ -44,6 +44,8 @@ Former members
 
 ## Publications
 
+  - *Matharaarachchi, S.*, **Turgeon, M.**, Domaratzki, M., Muthukumarana, S. "Sequential Bayesian estimation of the F1 score using the Dirichlet-multinomial model". International Journal of Data Science and Analytics, 21: 2026. [doi:10.1007/s41060-025-00885-x](https://doi.org/10.1007/s41060-025-00885-x).
+
   - Quan, S., Monchka, B.A., St. John, P.D., Doupe, M.B., **Turgeon, M.**, Lix, L.M. "Network Analyses to Explore Comorbidities Among Older Adults Living With Dementia". Journal of the American Geriatrics Society, 73: 2025. [doi:10.1111/jgs.19336](https://doi.org/10.1111/jgs.19336).
 
   - *Neloy, A.* and **Turgeon, M.** "Disentangled Conditional Variational Autoencoder for Unsupervised Anomaly Detection", 2024 IEEE International Conference on Big Data (BigData), Washington DC, USA, 2024.
@@ -60,8 +62,6 @@ Former members
 
   -  *Neloy, A.* and **Turgeon, M.** "Feature Extraction and Prediction of Combined Text and Survey Data using Two-Staged Modeling", 2022 International Conference on Data Mining Workshops (ICDMW), Orlando, USA, 2022.
 
-  - **Turgeon, M.**, Greenwood, C.M.T., and Labbe, A. "A Tracy-Widom Empirical Estimator For Valid P-values With High-Dimensional Datasets". Submitted. [arxiv](https://arxiv.org/abs/1811.07356)
-
   - Farkas, C., Mella, A., **Turgeon, M.**, and Haigh, J.J. "A novel SARS-CoV-2 viral sequence bioinformatic pipeline has found genetic evidence that the viral 3’ untranslated region (UTR) is evolving and generating increased viral diversity". Frontiers in Microbiology, 12: 2021. [doi:10.3389/fmicb.2021.665041](https://doi.org/10.3389/fmicb.2021.665041).
 
   - **Turgeon, M.**, Oualkacha, K., Ciampi, A., Miftah, H., Dehghan, G., Zanke, B.W., Benedet, A.L., Rosa-Neto, P., Greenwood, C.M.T., Labbe, A., for the Alzheimer’s Disease Neuroimaging Initiative. “Principal component of explained variance: an efficient and optimal data dimension reduction framework for association studies”. Statistical Methods in Medical Research, 27: 2018. [doi:10.1177/0962280216660128](https://dx.doi.org/10.1177/0962280216660128).
@@ -69,6 +69,10 @@ Former members
   - Wang, Y., Murphy, O., **Turgeon, M.**, Wang, Z.Y., Bhatnagar, S.R., Schulz, J., and Moodie, E.E.M. “The perils of quasi-likelihood information criteria”, Stat, 4: 2015. [doi:10.1002/sta4.95](https://dx.doi.org/10.1002/sta4.95)
 
   - Ahmad, O.S., Morris, J.A., Mujammami, M., Forgetta, V., Leong, A., Li, R., **Turgeon, M.**, Greenwood, C.M.T., Thanassoulis, G., Meigs, J.B., Sladek, R., and Richards, J.B. “A Mendelian randomization study of the effect of type-2 diabetes on coronary heart disease” Nature Communications, 6: 2015. [doi:10.1038/ncomms8060](https://dx.doi.org/10.1038/ncomms8060)
+
+## Preprints
+
+  - **Turgeon, M.**, Greenwood, C.M.T., and Labbe, A. "A Tracy-Widom Empirical Estimator For Valid P-values With High-Dimensional Datasets". Submitted. [arxiv](https://arxiv.org/abs/1811.07356)
 
 ## Contact
 
