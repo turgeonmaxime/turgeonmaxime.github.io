@@ -46,6 +46,8 @@ Former members
 
 ## Publications
 
+  - Haque, M.A., Nickel, N., **Turgeon, M.**, Lix L.M. "Model-based algorithms to ascertain smoking in administrative health data: a registry-based validation study". BMC Med Res Methodol 26: 2026. [doi:10.1186/s12874-026-02839-8](https://doi.org/10.1186/s12874-026-02839-8)
+
   - *Matharaarachchi, S.*, **Turgeon, M.**, Domaratzki, M., Muthukumarana, S. "Sequential Bayesian estimation of the F1 score using the Dirichlet-multinomial model". International Journal of Data Science and Analytics, 21: 2026. [doi:10.1007/s41060-025-00885-x](https://doi.org/10.1007/s41060-025-00885-x).
 
   - Quan, S., Monchka, B.A., St. John, P.D., Doupe, M.B., **Turgeon, M.**, Lix, L.M. "Network Analyses to Explore Comorbidities Among Older Adults Living With Dementia". Journal of the American Geriatrics Society, 73: 2025. [doi:10.1111/jgs.19336](https://doi.org/10.1111/jgs.19336).
