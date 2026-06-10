@@ -4,9 +4,11 @@ title = "Max Turgeon"
 
 {{< figure class="avatar" src="/avatar.jpeg" alt="avatar">}}
 
-I am a Senior Data Scientist with [Tesera Systems](https://www.tesera.com/).
+I am a Senior AI Scientist with [5 Prime Sciences](https://5primesciences.com/).
 
 I am also an Adjunct Professor in the Department of [Statistics](https://sci.umanitoba.ca/statistics/) at the [University of Manitoba](https://umanitoba.ca/).
+
+From 2022 to early 2026, I was a Senior Data Scientist with [Tesera Systems](https://www.tesera.com/).
 
 I received a PhD in Biostatistics from McGill University in 2019 while working under the supervision of [Dr. Celia Greenwood](https://greenwoodlab.github.io/) and [Dr. Aurélie Labbe](https://chairesd.hec.ca/en/). The title of my PhD thesis is [Dimension Reduction and High-Dimensional Data: Estimation and Inference with Application to Genomics and Neuroimaging](theses/MaximeTurgeon_PhDthesis.pdf).
 
