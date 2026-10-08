@@ -104,3 +104,10 @@ ul.share-icons li > * .label {
 .share-btn.reddit:hover      { background: #e54e00; }
 .share-btn.email:hover       { background: #363636; }
 */
+
+#content ul:not(.share-icons),
+#content .container > ul:not(.share-icons) {
+	list-style-position: outside;
+	padding-left: 1.25rem;
+}
+
