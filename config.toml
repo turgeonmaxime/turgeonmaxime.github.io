@@ -1,4 +1,4 @@
-baseURL = "https://maxturgeon.ca/"
+baseURL = "https://www.maxturgeon.ca/"
 languageCode = "en-ca"
 title = "Max Turgeon"
 
@@ -9,15 +9,16 @@ math = false          # enable KaTeX (https://katex.org/) globally
 googleAnalytics = ""  # add your tracking id
 
 [params]
+  lang = "en-CA"  # used by the theme for <html lang="...">
   author = "Max Turgeon"
-  description = "Dimension Reduction at UManitoba"
-  favicon = "icon.png"  # path to a .ico to use as favicon
+  description = "Max Turgeon, Senior AI Scientist at 5 Prime Sciences"
+  favicon = "icon.png"  # path to the favicon image (PNG)
   logo = ""  # url or path to a logo to put in the header
   [params.footer]
     text = "By Max Turgeon"
-    url = "https://maxturgeon.ca"
+    url = "https://www.maxturgeon.ca"
   [params.style]  # appearance options (can be omitted)
-    fontFamily = "Verdana"
+    fontFamily = '"Open Sans", Verdana, sans-serif'
     pageWidth = "1000px"
     avatarSize = "250px"
     colorBlack = "#222222"

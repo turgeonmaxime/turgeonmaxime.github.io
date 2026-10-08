@@ -1,3 +1,37 @@
+/* Open Sans, self-hosted (SIL Open Font License, see static/fonts/open-sans/OFL.txt).
+   Latin subset only; it covers every character currently on the site. */
+@font-face {
+	font-family: "Open Sans";
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url("/fonts/open-sans/open-sans-latin-400-normal.woff2") format("woff2");
+}
+
+@font-face {
+	font-family: "Open Sans";
+	font-style: italic;
+	font-weight: 400;
+	font-display: swap;
+	src: url("/fonts/open-sans/open-sans-latin-400-italic.woff2") format("woff2");
+}
+
+@font-face {
+	font-family: "Open Sans";
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src: url("/fonts/open-sans/open-sans-latin-700-normal.woff2") format("woff2");
+}
+
+@font-face {
+	font-family: "Open Sans";
+	font-style: italic;
+	font-weight: 700;
+	font-display: swap;
+	src: url("/fonts/open-sans/open-sans-latin-700-italic.woff2") format("woff2");
+}
+
 body {
 	background: #EAE7D6;
 }
@@ -45,19 +79,6 @@ ul.share-icons li > * {
 	border: 0;
 }
 
-ul.share-icons li > *:before {
-	-moz-osx-font-smoothing: grayscale;
-	-webkit-font-smoothing: antialiased;
-	font-family: FontAwesome;
-	font-style: normal;
-	font-weight: normal;
-	text-transform: none !important;
-}
-
-ul.share-icons li > * .label {
-	display: none;
-}
- 
 .share-btn {
 	display: inline-block;
 	color: #ffffff;

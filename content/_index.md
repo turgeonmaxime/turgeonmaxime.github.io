@@ -2,7 +2,7 @@
 title = "Max Turgeon"
 +++
 
-{{< figure class="avatar" src="/avatar.jpeg" alt="avatar">}}
+{{< figure class="avatar" src="/avatar.jpeg" alt="Photo of Max Turgeon">}}
 
 I am a Senior AI Scientist with [5 Prime Sciences](https://5primesciences.com/).
 
