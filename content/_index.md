@@ -28,7 +28,7 @@ You can find a list of projects I have worked on [here](/projects).
 
 Current members
 
-  - Noah Farrell, MSc student in Statistics
+  - Noah Regnander Farrell, MSc student in Statistics
 
 Former members
 
@@ -76,7 +76,9 @@ Former members
 
 ## Preprints
 
-  - **Turgeon, M.**, Greenwood, C.M.T., and Labbe, A. "A Tracy-Widom Empirical Estimator For Valid P-values With High-Dimensional Datasets". Submitted. [arxiv](https://arxiv.org/abs/1811.07356)
+  - **Turgeon, M.**, Kieser, M., Wolfe, D., and MacArthur, B. "Enhanced Forest Inventories for Habitat Mapping: A Case Study in the Sierra Nevada Mountains of California". [arxiv](https://arxiv.org/abs/2602.12072)
+
+  - **Turgeon, M.**, Greenwood, C.M.T., and Labbe, A. "A Tracy-Widom Empirical Estimator For Valid P-values With High-Dimensional Datasets". [arxiv](https://arxiv.org/abs/1811.07356)
 
 ## Contact
 
