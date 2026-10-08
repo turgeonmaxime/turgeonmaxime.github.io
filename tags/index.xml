@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on Max Turgeon</title>
-		<link>https://maxturgeon.ca/tags/</link>
+		<link>https://www.maxturgeon.ca/tags/</link>
 		<description>Recent content in Tags on Max Turgeon</description>
 		<generator>Hugo</generator>
 		<language>en-ca</language>
@@ -10,6 +10,6 @@
 		
 		
 		
-			<atom:link href="https://maxturgeon.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://www.maxturgeon.ca/tags/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>
