@@ -46,6 +46,10 @@ Former members
 
 ## Publications
 
+  - *Morrissette, S.*, Muthukumarana, S., **Turgeon, M.**. "Clustering dissimilarities with the Dirichlet process". To appear in Data Science in Science.
+
+  - *Ba, I.*, **Turgeon, M.**, Veniamin, S., ..., Muthukumarana, S, McGregor, K. "A Bayesian factor analysis model for high-dimensional microbiome count data". AStA Adv Stat Anal 110: 2026. [doi:10.1007/s10182-026-00569-2](https://doi.org/10.1007/s10182-026-00569-2)
+
   - Haque, M.A., Nickel, N., **Turgeon, M.**, Lix L.M. "Model-based algorithms to ascertain smoking in administrative health data: a registry-based validation study". BMC Med Res Methodol 26: 2026. [doi:10.1186/s12874-026-02839-8](https://doi.org/10.1186/s12874-026-02839-8)
 
   - *Matharaarachchi, S.*, **Turgeon, M.**, Domaratzki, M., Muthukumarana, S. "Sequential Bayesian estimation of the F1 score using the Dirichlet-multinomial model". International Journal of Data Science and Analytics, 21: 2026. [doi:10.1007/s41060-025-00885-x](https://doi.org/10.1007/s41060-025-00885-x).
@@ -64,7 +68,7 @@ Former members
 
   - Bhatnagar, S.R., **Turgeon, M.**, *Islam, J.*, Hanley, J.A., and Saarela, O. "casebase: An Alternative Framework For Survival Analysis and Comparison of Event Rates". The R Journal, 14: 2022. [doi:10.32614/RJ-2022-052](https://dx.doi.org/10.32614/RJ-2022-052).
 
-  -  *Neloy, A.* and **Turgeon, M.** "Feature Extraction and Prediction of Combined Text and Survey Data using Two-Staged Modeling", 2022 International Conference on Data Mining Workshops (ICDMW), Orlando, USA, 2022.
+  - *Neloy, A.* and **Turgeon, M.** "Feature Extraction and Prediction of Combined Text and Survey Data using Two-Staged Modeling", 2022 International Conference on Data Mining Workshops (ICDMW), Orlando, USA, 2022.
 
   - Farkas, C., Mella, A., **Turgeon, M.**, and Haigh, J.J. "A novel SARS-CoV-2 viral sequence bioinformatic pipeline has found genetic evidence that the viral 3’ untranslated region (UTR) is evolving and generating increased viral diversity". Frontiers in Microbiology, 12: 2021. [doi:10.3389/fmicb.2021.665041](https://doi.org/10.3389/fmicb.2021.665041).
 
